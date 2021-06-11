@@ -1,2 +1,1 @@
-"# Spotify-But-Better" 
-"# Spotify-But-Better" 
+"# Spotify-but-better" 
